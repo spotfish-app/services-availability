@@ -35,7 +35,7 @@
             "id": "mobile",
             "env": "preview",
             "minVersion": "1.1.12",
-            "maintenance": true
+            "maintenance": false
          },
          {
             "id": "mobile",
