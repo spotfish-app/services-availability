@@ -1,0 +1,48 @@
+[
+   {
+      "id": "spotfish",
+      "services": [
+         {
+            "id": "mobile",
+            "env": "production",
+            "minVersion": "2.0.6",
+            "maintenance": false
+         },
+         {
+            "id": "mobile",
+            "env": "preview",
+            "minVersion": "2.0.0",
+            "maintenance": false
+         },
+         {
+            "id": "mobile",
+            "env": "development",
+            "minVersion": "2.0.0",
+            "maintenance": false
+         }
+      ]
+   },
+   {
+      "id": "suedtirol-fishing",
+      "services": [
+         {
+            "id": "mobile",
+            "env": "production",
+            "minVersion": "1.1.18",
+            "maintenance": false
+         },
+         {
+            "id": "mobile",
+            "env": "preview",
+            "minVersion": "1.1.12",
+            "maintenance": false
+         },
+         {
+            "id": "mobile",
+            "env": "development",
+            "minVersion": "1.0.85",
+            "maintenance": false
+         }
+      ]
+   }
+]
